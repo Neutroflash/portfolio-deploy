@@ -13,9 +13,14 @@
     text-transform: uppercase;
     letter-spacing: -0.03em;
     font-weight: 900;
+    padding: 15px 0 0 0;
 }
 
 .aboutText {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    justify-content: center;
     margin: 20px;
     padding: 20px 80px 20px 80px;
 }
