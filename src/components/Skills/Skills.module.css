@@ -29,6 +29,7 @@
 
 .logoContainer {
   text-align: center;
+  width: 80px;
   margin: 10px;
   transition: transform 0.3s ease-in-out;
 }
