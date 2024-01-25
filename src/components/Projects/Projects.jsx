@@ -47,7 +47,7 @@ const Projects = () => {
                 <img src={project.bg} alt={project.title} className={styles.projectImage} />
                 <div className={styles.projectInfo}>
                   <h2>{project.title}</h2>
-                  <p>Tecnologías: {project.tecnologias}</p>
+                  <h3>Tecnologías: {project.tecnologias}</h3>
                   <p className={styles.projectText}>{project.descripcion}</p>
                 </div>
               </div>

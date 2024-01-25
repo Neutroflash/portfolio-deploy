@@ -13,6 +13,11 @@
   font-family: "Noto Sans", sans-serif;
 }
 
+.projects h3 {
+  font-size: 0.85rem;
+  font-family: 'Dosis', sans-serif;
+}
+
 .boxProjects {
   display: flex;
   flex-wrap: wrap;
@@ -33,7 +38,7 @@
 }
 
 .projectInfo h2 {
-  font-family: "Roboto";
+  font-family: 'Dosis', sans-serif;;
   text-transform: uppercase;
 }
 
