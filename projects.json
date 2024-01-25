@@ -4,21 +4,21 @@
     "bg": "https://res.cloudinary.com/dsemicrck/image/upload/v1706198499/mac_vwytbq.png",
     "title": "Mac Mini Landing Page",
     "tecnologias": "HTML - CSS - Javascript",
-    "descripcion": "Mac Mini Landing Page es un proyecto web \n que presenta de manera atractiva y funcional el \n producto Mac Mini de Apple. \n La página está diseñada utilizando tecnologías web fundamentales \n como HTML, CSS y JavaScript, brindando una experiencia \n interactiva para los usuarios.\nCon un enfoque en el diseño intuitivo y la usabilidad, el proyecto \n destaca las características \n clave del Mac Mini y ofrece información esencial a los visitantes.\n Este trabajo demuestra habilidades en el desarrollo web front-end, \n combinando elementos visuales \n atractivos con funcionalidades dinámicas para ofrecer una \n experiencia de usuario impactante."
+    "descripcion": "Mac Mini Landing Page es un proyecto web que presenta de manera \n atractiva y funcional el producto Mac Mini de Apple. La página está\n diseñada utilizando tecnologías web fundamentales como HTML, CSS \ny JavaScript, brindando una experiencia interactiva para los usuarios.\nCon un enfoque en el diseño intuitivo y la usabilidad, el proyecto \n destaca las características clave del Mac Mini y ofrece información\n esencial a los visitantes. Este trabajo demuestra habilidades en el \ndesarrollo web front-end, combinando elementos visuales atractivos\n con funcionalidades dinámicas para ofrecer una experiencia de \nusuario impactante."
   },
   {
     "id": 1,
     "bg": "https://res.cloudinary.com/dsemicrck/image/upload/v1706198488/peliculas_hjkzkk.jpg",
     "title": "App De Peliculas",
     "tecnologias": "React - TypeScript - JavaScript",
-    "descripcion": "App De Peliculas es una aplicación centrada en la visualización \n y exploración de películas. Desarrollada utilizando tecnologías\n modernas como React, TypeScript y JavaScript, esta aplicación ofrece\n una experiencia dinámica y amigable para los usuarios.\n Con un enfoque en la usabilidad, la app permite a los usuarios \n explorar una amplia variedad de películas, proporcionando \ninformación detallada, clasificaciones y trailers.\n La implementación de TypeScript \n agrega un nivel adicional de robustez al código, mejorando la calidad \n y mantenimiento del proyecto. Este proyecto destaca habilidades \nen el desarrollo web front-end y la creación de interfaces interactivas \npara mejorar la experiencia del usuario en la exploración \n y disfrute cinematográfico."
+    "descripcion": "La 'App De Películas' es una aplicación centrada en la visualización y \nexploración de películas. Desarrollada con tecnologías modernas \ncomo React, TypeScript y JavaScript, ofrece una experiencia \ndinámica y amigable. Con énfasis en la usabilidad, permite a los\n usuarios explorar diversas películas, proporcionando información \ndetallada, clasificaciones y trailers. La implementación de TypeScript \nañade robustez al código, mejorando la calidad y mantenimiento del \nproyecto. Destaca habilidades en el desarrollo web front-end y \nla creación de interfaces interactivas para mejorar la experiencia del \nusuario en la exploración y disfrute cinematográfico."
   },
   {
     "id": 2,
     "bg": "https://res.cloudinary.com/dsemicrck/image/upload/v1706198494/spotify_f27dk9.jpg",
     "title": "Spotify Clone",
     "tecnologias": "React - Stripe - Supabase - PostgreSQL - Tailwind",
-    "descripcion": "Spotify Clone es un proyecto que replica la experiencia de Spotify,\n utilizando tecnologías como React, Stripe, Supabase, PostgreSQL y \n Tailwind CSS. La aplicación ofrece funciones completas de\nreproducción de música, integración de pagos seguros y\n gestión eficiente de datos.\n Este proyecto destaca habilidades en el desarrollo web front-end \n y la creación de interfaces atractivas y funcionales."
+    "descripcion": "Spotify Clone es un proyecto que replica la experiencia de Spotify,\n utilizando tecnologías como React, Stripe, Supabase, PostgreSQL y \n Tailwind CSS. La aplicación ofrece funciones completas de\nreproducción de música, integración de pagos seguros y\n gestión eficiente de datos.Este proyecto destaca habilidades en el \ndesarrollo web front-end y la creación de interfaces atractivas y \nfuncionales."
   },
   {
     "id": 3,
@@ -39,6 +39,6 @@
     "bg": "https://res.cloudinary.com/dsemicrck/image/upload/v1706198480/portfolio_fokcya.png",
     "title": "Portfolio Personal",
     "tecnologias": "React Js - JavaScript - HTML - CSS",
-    "descripcion": "Portfolio Personal es mi espacio digital donde comparto información\n relevante sobre mí como desarrollador. Desarrollado con tecnologías\n como React Js, JavaScript, HTML y CSS, el portafolio destaca mis\n habilidades, proyectos y experiencia. Este sitio ofrece una \n visión detallada de mi trayectoria, destacando tanto habilidades \n técnicas como proyectos significativos. Explora mi portafolio \npara conocer más\n sobre mí y mi pasión por la programación y el desarrollo web."
+    "descripcion": "Portfolio Personal es mi espacio digital donde comparto información\n relevante sobre mí como desarrollador. Desarrollado con tecnologías\n como React Js, JavaScript, HTML y CSS, el portafolio destaca mis\n habilidades, proyectos y experiencia. Este sitio ofrece una \n visión detallada de mi trayectoria, destacando tanto habilidades \n técnicas como proyectos significativos. Explora mi portafolio para \nconocer más sobre mí y mi pasión por la programación \ny el desarrollo web."
   }
 ]

@@ -10,26 +10,15 @@ import styles from "./App.module.css";
 import { Fade } from "react-awesome-reveal";
 
 function App() {
-
   return (
     <div id="root" className={styles.root}>
       <SideBar />
       <div className={styles.myInfo}>
-        <Fade duration={2500}>
-          <Hero/>
-        </Fade>
-        <Fade duration={2500}>
-          <About/>
-        </Fade>
-        <Fade duration={2500}>
-          <Skills/>
-        </Fade>
-        <Fade duration={2500}>
-          <Projects/>
-        </Fade>
-        <Fade duration={2500}>
-          <Footer/>
-        </Fade>
+        <Hero />
+        <About />
+        <Skills />
+        <Projects />
+        <Footer />
       </div>
     </div>
   );
