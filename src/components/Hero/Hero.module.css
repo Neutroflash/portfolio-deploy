@@ -78,6 +78,10 @@
   }
 
   @media screen and (max-width: 640px) {
+    .hero {
+      height: 100vh;
+    }
+
     .hero p {
       font-size: 15px
     }
