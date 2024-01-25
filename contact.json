@@ -1,0 +1,32 @@
+[
+    {
+        "id": 0,
+        "image": "./public/assets/footer-logo/linkedin.svg",
+        "text": "Linkedin",
+        "link": "https://www.linkedin.com/in/miguel-junior-lorenzo-padilla-79973a207/"
+    },
+    {
+        "id": 1,
+        "image": "./public/assets/footer-logo/github.svg",
+        "text": "Github",
+        "link": "https://github.com/Neutroflash"
+    },
+    {
+        "id": 2,
+        "image": "./public/assets/footer-logo/outlook.svg",
+        "text": "Outlook",
+        "link": "mailto:neutroflashp@hotmail.com"
+    },
+    {
+        "id": 3,
+        "image": "./public/assets/footer-logo/whatsapp.svg",
+        "text": "Whatsapp",
+        "link": "https://wa.me/+51923823520"
+    },
+    {
+        "id": 4,
+        "image": "./public/assets/footer-logo/cv.svg",
+        "text": "cv",
+        "link": "./public/assets/CV.pdf"
+    }
+]

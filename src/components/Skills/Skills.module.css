@@ -1,0 +1,88 @@
+.skills {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  text-align: center;
+  height: 100vh;
+}
+
+.skills h1 {
+  color: #f5f5f7;
+  font-size: 2.1rem;
+  text-transform: uppercase;
+  letter-spacing: -0.03em;
+  font-weight: 900;
+}
+
+.skillsLogos {
+  display: flex;
+  flex-wrap: wrap;
+  width: 1000px;
+  border-radius: 50px;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto 0 auto;
+  gap: 90px;
+}
+
+.logoContainer {
+  text-align: center;
+  margin: 10px;
+  transition: transform 0.3s ease-in-out;
+}
+
+.logo {
+  width: 100px;
+  height: 100px;
+  margin-bottom: 10px;
+  transition: transform 0.3s ease-in-out;
+}
+
+.logoText {
+  font-size: 16px;
+  font-weight: 900;
+  color: white;
+}
+
+.logoContainer:hover,
+.logoContainer:focus {
+  transform: scale(1.1);
+}
+
+.logoContainer:hover .logo,
+.logoContainer:focus .logo {
+  transform: scale(1.1);
+}
+
+@media screen and (max-width: 640px) {
+  .skills {
+    height: 100%;
+    gap: 30px;
+  }
+
+  .skills h1 {
+    font-size: 1.5rem;
+  }
+
+  .skillsLogos {
+    gap: 90px;
+    width: auto;
+  }
+
+  @keyframes breathe {
+    0%, 100% {
+      transform: scale(1);
+    }
+    50% {
+      transform: scale(1.1);
+    }
+  }
+
+  .logo {
+    width: 80px;
+    height: 80px;
+    animation: breathe 2s infinite alternate ease-in-out;
+  }
+}

@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&family=Open+Sans&family=Poppins&family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@300;400&display=swap');
+body {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+h1 {
+  font-family: 'Dosis', sans-serif;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.root {
+  display: flex;
+  flex-direction: row;
+}
+
+.myInfo {
+  display: flex;
+  margin-left: 300px;
+  flex-direction: column;
+  width: 100%;
+  scroll-behavior: smooth;
+}
+
+@media screen and (max-width: 640px) {
+  .myInfo {
+    margin-left: 0;
+  }
+}

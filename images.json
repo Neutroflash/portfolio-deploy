@@ -1,0 +1,52 @@
+[
+    {
+        "id": 0,
+        "image": "./public/assets/logos/javascript.svg",
+        "text": "Javascript"
+    },
+    {
+        "id": 1,
+        "image": "./public/assets/logos/react.svg",
+        "text": "ReactJs"
+    },
+    {
+        "id": 2,
+        "image": "./public/assets/logos/angular.svg",
+        "text": "Angular"
+    },
+    {
+        "id": 3,
+        "image": "./public/assets/logos/sass.svg",
+        "text": "SASS"
+    },
+    {
+        "id": 4,
+        "image": "./public/assets/logos/typescript.svg",
+        "text": "TypeScript"
+    },
+    {
+        "id": 5,
+        "image": "./public/assets/logos/postgresql.svg",
+        "text": "PostgreSQL"
+    },
+    {
+        "id": 6,
+        "image": "./public/assets/logos/nestjs.svg",
+        "text": "NestJs"
+    },
+    {
+        "id": 7,
+        "image": "./public/assets/logos/nodejs.svg",
+        "text": "NodeJs"
+    },
+    {
+        "id": 8,
+        "image": "./public/assets/logos/express.svg",
+        "text": "ExpressJs"
+    },
+    {
+        "id": 9,
+        "image": "./public/assets/logos/tailwind.svg",
+        "text": "Tailwind CSS"
+    }
+]

@@ -1,0 +1,49 @@
+[
+    {
+        "id": 0,
+        "image": "./public/assets/myPhoto.jpeg",
+        "class": "myPhoto"
+    },
+    {
+        "id": 1,
+        "icon": "IoLogoGithub",
+        "text": "Neutroflash",
+        "link": "https://github.com/Neutroflash",
+        "class": "sideBar_link"
+    },
+    {
+        "id": 2,
+        "icon": "IoIosHome",
+        "text": "Inicio",
+        "link": "/",
+        "class": "sideBar_link"
+    },
+    {
+        "id": 3,
+        "icon": "IoIosContact",
+        "text": "Acerca de Mi",
+        "link": "/About",
+        "class": "sideBar_link"
+    },
+    {
+        "id": 4,
+        "icon": "IoIosBulb",
+        "text": "Conocimientos",
+        "link": "/Skills",
+        "class": "sideBar_link"
+    },
+    {
+        "id": 5,
+        "icon": "IoIosCode",
+        "text": "Proyectos",
+        "link": "/Projects",
+        "class": "sideBar_link"
+    },
+    {
+        "id": 6,
+        "icon": "IoIosMail",
+        "text": "Contactame",
+        "link": "/Footer",
+        "class": "sideBar_link"
+    }
+]
