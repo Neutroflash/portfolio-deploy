@@ -1,32 +1,32 @@
 [
     {
         "id": 0,
-        "image": "/assets/footer-logo/linkedin.svg",
+        "image": "https://res.cloudinary.com/dsemicrck/image/upload/v1706198685/linkedin_fberic.svg",
         "text": "Linkedin",
         "link": "https://www.linkedin.com/in/miguel-junior-lorenzo-padilla-79973a207/"
     },
     {
         "id": 1,
-        "image": "/assets/footer-logo/github.svg",
+        "image": "https://res.cloudinary.com/dsemicrck/image/upload/v1706198686/github_t946gb.svg",
         "text": "Github",
         "link": "https://github.com/Neutroflash"
     },
     {
         "id": 2,
-        "image": "/assets/footer-logo/outlook.svg",
+        "image": "https://res.cloudinary.com/dsemicrck/image/upload/v1706198685/outlook_vecrar.svg",
         "text": "Outlook",
         "link": "mailto:neutroflashp@hotmail.com"
     },
     {
         "id": 3,
-        "image": "/assets/footer-logo/whatsapp.svg",
+        "image": "https://res.cloudinary.com/dsemicrck/image/upload/v1706198685/whatsapp_b2ql2r.svg",
         "text": "Whatsapp",
         "link": "https://wa.me/+51923823520"
     },
     {
         "id": 4,
-        "image": "/assets/footer-logo/cv.svg",
+        "image": "https://res.cloudinary.com/dsemicrck/image/upload/v1706198677/resume-cv-icon_abqchh.svg",
         "text": "cv",
-        "link": "/assets/CV.pdf"
+        "link": "https://drive.google.com/file/d/1OQ1j0cqDEBktA-y34RF9fHRCQkgV5ibc/view?usp=sharing"
     }
 ]

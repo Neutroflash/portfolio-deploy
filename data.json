@@ -1,7 +1,7 @@
 [
     {
         "id": 0,
-        "image": "/assets/myPhoto.jpeg",
+        "image": "https://res.cloudinary.com/dsemicrck/image/upload/v1706198368/myphoto_lv0ejk.jpg",
         "class": "myPhoto"
     },
     {

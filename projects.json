@@ -1,42 +1,42 @@
 [
   {
     "id": 0,
-    "bg": "/assets/projects-background/mac.png",
+    "bg": "https://res.cloudinary.com/dsemicrck/image/upload/v1706198499/mac_vwytbq.png",
     "title": "Mac Mini Landing Page",
     "tecnologias": "HTML - CSS - Javascript",
     "descripcion": "Mac Mini Landing Page es un proyecto web \n que presenta de manera atractiva y funcional el \n producto Mac Mini de Apple. \n La página está diseñada utilizando tecnologías web fundamentales \n como HTML, CSS y JavaScript, brindando una experiencia \n interactiva para los usuarios.\nCon un enfoque en el diseño intuitivo y la usabilidad, el proyecto \n destaca las características \n clave del Mac Mini y ofrece información esencial a los visitantes.\n Este trabajo demuestra habilidades en el desarrollo web front-end, \n combinando elementos visuales \n atractivos con funcionalidades dinámicas para ofrecer una \n experiencia de usuario impactante."
   },
   {
     "id": 1,
-    "bg": "/assets/projects-background/peliculas.png",
+    "bg": "https://res.cloudinary.com/dsemicrck/image/upload/v1706198488/peliculas_hjkzkk.jpg",
     "title": "App De Peliculas",
     "tecnologias": "React - TypeScript - JavaScript",
     "descripcion": "App De Peliculas es una aplicación centrada en la visualización \n y exploración de películas. Desarrollada utilizando tecnologías\n modernas como React, TypeScript y JavaScript, esta aplicación ofrece\n una experiencia dinámica y amigable para los usuarios.\n Con un enfoque en la usabilidad, la app permite a los usuarios \n explorar una amplia variedad de películas, proporcionando \ninformación detallada, clasificaciones y trailers.\n La implementación de TypeScript \n agrega un nivel adicional de robustez al código, mejorando la calidad \n y mantenimiento del proyecto. Este proyecto destaca habilidades \nen el desarrollo web front-end y la creación de interfaces interactivas \npara mejorar la experiencia del usuario en la exploración \n y disfrute cinematográfico."
   },
   {
     "id": 2,
-    "bg": "/assets/projects-background/spotify.jpg",
+    "bg": "https://res.cloudinary.com/dsemicrck/image/upload/v1706198494/spotify_f27dk9.jpg",
     "title": "Spotify Clone",
     "tecnologias": "React - Stripe - Supabase - PostgreSQL - Tailwind",
     "descripcion": "Spotify Clone es un proyecto que replica la experiencia de Spotify,\n utilizando tecnologías como React, Stripe, Supabase, PostgreSQL y \n Tailwind CSS. La aplicación ofrece funciones completas de\nreproducción de música, integración de pagos seguros y\n gestión eficiente de datos.\n Este proyecto destaca habilidades en el desarrollo web front-end \n y la creación de interfaces atractivas y funcionales."
   },
   {
     "id": 3,
-    "bg": "/assets/projects-background/social.png",
+    "bg": "https://res.cloudinary.com/dsemicrck/image/upload/v1706198502/social_z1khfy.png",
     "title": "Social Media App",
     "tecnologias": "React JS - Appwrite - Tailwind CSS - React Query",  
     "descripcion": "Social Media App es una aplicación de redes sociales desarrollada con \n React JS, Appwrite, Tailwind CSS y React Query. Ofrece una \n experiencia interactiva y eficiente, con funciones de backend \n gestionadas por Appwrite y un diseño atractivo gracias \n a Tailwind CSS. Este proyecto destaca habilidades en el \ndesarrollo web moderno y la creación de interfaces de usuario \nfuncionales."
   },
   {
     "id": 4,
-    "bg": "/assets/projects-background/chat.jpg",
+    "bg": "https://res.cloudinary.com/dsemicrck/image/upload/v1706198507/chat_gfjqyt.jpg",
     "title": "Chat en Tiempo Real",
     "tecnologias": "Express - React Js - Node JS - PostgreSQL",
     "descripcion": "Chat en Tiempo Real es una aplicación de mensajería instantánea \nconstruida con Express, React Js, Node JS y PostgreSQL. Ofrece una \n experiencia de chat eficiente y en tiempo real, destacando \nhabilidades en el desarrollo de aplicaciones interactivas y \nla gestión de comunicación simultánea."
   },
   {
     "id": 5,
-    "bg": "/assets/projects-background/portfolio.png",
+    "bg": "https://res.cloudinary.com/dsemicrck/image/upload/v1706198480/portfolio_fokcya.png",
     "title": "Portfolio Personal",
     "tecnologias": "React Js - JavaScript - HTML - CSS",
     "descripcion": "Portfolio Personal es mi espacio digital donde comparto información\n relevante sobre mí como desarrollador. Desarrollado con tecnologías\n como React Js, JavaScript, HTML y CSS, el portafolio destaca mis\n habilidades, proyectos y experiencia. Este sitio ofrece una \n visión detallada de mi trayectoria, destacando tanto habilidades \n técnicas como proyectos significativos. Explora mi portafolio \npara conocer más\n sobre mí y mi pasión por la programación y el desarrollo web."

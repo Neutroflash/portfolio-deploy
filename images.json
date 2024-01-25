@@ -1,52 +1,52 @@
 [
     {
         "id": 0,
-        "image": "/assets/logos/javascript.svg",
+        "image": "https://res.cloudinary.com/dsemicrck/image/upload/v1706198882/javascript-js-seeklogo_gqalo5.svg",
         "text": "Javascript"
     },
     {
         "id": 1,
-        "image": "/assets/logos/react.svg",
+        "image": "https://res.cloudinary.com/dsemicrck/image/upload/v1706198864/react-seeklogo_ldlvyg.svg",
         "text": "ReactJs"
     },
     {
         "id": 2,
-        "image": "/assets/logos/angular.svg",
+        "image": "https://res.cloudinary.com/dsemicrck/image/upload/v1706198870/angular-seeklogo_nlkazl.svg",
         "text": "Angular"
     },
     {
         "id": 3,
-        "image": "/assets/logos/sass.svg",
+        "image": "https://res.cloudinary.com/dsemicrck/image/upload/v1706198876/sass-seeklogo_wjaxfv.svg",
         "text": "SASS"
     },
     {
         "id": 4,
-        "image": "/assets/logos/typescript.svg",
+        "image": "https://res.cloudinary.com/dsemicrck/image/upload/v1706198845/typescript-seeklogo_iytba0.svg",
         "text": "TypeScript"
     },
     {
         "id": 5,
-        "image": "/assets/logos/postgresql.svg",
+        "image": "https://res.cloudinary.com/dsemicrck/image/upload/v1706198838/postgresql-seeklogo_pznab8.svg",
         "text": "PostgreSQL"
     },
     {
         "id": 6,
-        "image": "/assets/logos/nestjs.svg",
+        "image": "https://res.cloudinary.com/dsemicrck/image/upload/v1706198858/nestjs-seeklogo_tkx13y.svg",
         "text": "NestJs"
     },
     {
         "id": 7,
-        "image": "/assets/logos/nodejs.svg",
+        "image": "https://res.cloudinary.com/dsemicrck/image/upload/v1706198852/node-js-seeklogo_rxcwxi.svg",
         "text": "NodeJs"
     },
     {
         "id": 8,
-        "image": "/assets/logos/express.svg",
+        "image": "https://res.cloudinary.com/dsemicrck/image/upload/v1706199231/express-seeklogo_lws2vj.svg",
         "text": "ExpressJs"
     },
     {
         "id": 9,
-        "image": "/assets/logos/tailwind.svg",
+        "image": "https://res.cloudinary.com/dsemicrck/image/upload/v1706198678/tailwindcss_v3n68z.svg",
         "text": "Tailwind CSS"
     }
 ]
