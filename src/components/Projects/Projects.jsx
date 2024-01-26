@@ -24,7 +24,13 @@ const Projects = () => {
             slidesPerView: 0.5
           },
           640: {
-            slidesPerView: 2,
+            slidesPerView: 1
+          },
+          1024: {
+            slidesPerView: 1.3
+          },
+          1515:{
+            slidesPerView: 2
           }}
         }
         coverflowEffect={{

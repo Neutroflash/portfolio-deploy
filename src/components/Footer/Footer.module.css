@@ -36,9 +36,9 @@
     height: 40px;
 }
 
-@media screen and (max-width: 640px) {
+@media screen and (max-width: 1024px) {
     .footer {
-        padding: 40px 20px 40px 20px;;
+        padding: 40px 20px 40px 20px;
     }
 
     .footer p {
@@ -57,5 +57,12 @@
     .logoFooter {
         width: 30px;
         height: 30px;
+    }
+}
+
+@media screen and (min-width: 1024px) and (max-width: 1515px) {
+    .footerItems {
+        flex-wrap: wrap;
+        gap: 40px;
     }
 }

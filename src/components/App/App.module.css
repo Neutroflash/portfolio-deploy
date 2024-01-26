@@ -41,3 +41,16 @@ ul {
     margin-left: 0;
   }
 }
+
+@media screen and (min-width: 640px) and (max-width: 1024px) {
+  .myInfo {
+    margin-left: 150px;
+    width: calc(100vw - 150px);
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .myInfo {
+    width: calc(100vw - 300px);
+  }
+}

@@ -102,3 +102,36 @@
     max-width: 400px;
   }
 }
+
+@media screen and (min-width: 640px) and (max-width: 1024px) {
+  .projects h1 {
+    font-size: 1.5rem;
+  }
+
+  .projects p {
+    font-size: 11px;
+  }
+
+  .projectCard {
+    width: 300px;
+  }
+
+  .projectImage {
+    width: 300px;
+    height: 150px;
+  }
+
+  .mySwiper {
+    width: 95%;
+    max-width: 350px;
+    margin: 0;
+  }
+}
+
+@media screen and (min-width: 1024px) and (max-width: 1515px) {
+  .mySwiper {
+    width: 95%;
+    max-width: 700px;
+    margin: 0;
+  }
+}

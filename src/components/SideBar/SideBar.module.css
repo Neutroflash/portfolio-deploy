@@ -44,7 +44,7 @@
   height: 300px;
 }
 
-@media screen and (max-width: 640px) {
+@media screen and (max-width: 639px) {
   .sideBar {
     display: flex;
     justify-content: center;
@@ -69,5 +69,20 @@
   .sideBar_list {
     display: flex;
     gap: 5px;
+  }
+}
+
+@media screen and (min-width: 640px) and (max-width: 1024px) {
+  .sideBar {
+    height: 100%;
+  }
+
+  .myPhoto {
+    width: 150px;
+    height: 150px;
+  }
+
+  .sideBar_item p {
+    font-size: 13px;
   }
 }

@@ -46,3 +46,18 @@
         font-size: 13px;
     }
 }
+
+@media screen and (min-width: 640px) and (max-width: 1024px) {
+    .about {
+        padding: 0;
+        height: auto;
+    }
+    
+    .aboutText h1 {
+        font-size: 1.5rem;
+    }
+
+    .aboutText p {
+        font-size: 13px;
+    }
+}
